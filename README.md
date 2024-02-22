@@ -1,5 +1,5 @@
 # About Me:
-**Hello there! **
+**Hello there!**
 
 I'm a South African software engineer and tech lead with a passion for bringing ideas to life in the realms of VR, game design, 3D programming and websites.
 
